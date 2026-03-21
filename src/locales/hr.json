@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O nama",
+    "menu": "Meni",
+    "events": "Događaji",
+    "gallery": "Galerija",
+    "contact": "Kontakt",
+    "reserve": "Rezerviraj stol"
+  },
+  "hero": {
+    "title": "Dobrodošli u Restoran Rогoznica",
+    "subtitle": "Moderna dalmatinska trpeza sa srcem",
+    "desc": "Unaprijeđeni klasici mesnih jela, svježa riba i domaći pršut i sir",
+    "cta_reserve": "Rezerviraj stol",
+    "cta_menu": "Preuzmi jelovnik",
+    "tagline": "Otvorena kuhinja. Vikendom kasna atmosfera. Radnim danima mirniji ručak i večera."
+  },
+  "why": {
+    "title": "Zašto baš ovdje",
+    "text": "Skriven u Zagrebačkoj ulici Sveti duh 38, Restoran Rogoznica je stvorena za ljude kojima su bitni hrana, atmosfera, društvo, mirisi mora i dobra kapljica. Dođite na ručak ili večeru i ostanite zbog roštilja, vina i dalmatinske atmosfere."
+  },
+  "info": {
+    "title": "Brze informacije",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "location": "Lokacija",
+    "hours": "Radno vrijeme",
+    "phone_val": "+385 (0)1 000 000",
+    "email_val": "reservations@restoran-rogoznica.hr",
+    "location_val": "Zagreb, Sveti duh 38, Hrvatska",
+    "hours_val": "pon–pet 11:00–23:00 • sub 12:00–24:00 • ned 12:00–22:00"
+  },
+  "space": {
+    "title": "Naš prostor",
+    "subtitle": "Sjedenje i zone",
+    "indoor": "Glavni prostor (unutra)",
+    "indoor_val": "30 gostiju",
+    "terrace": "Terasa",
+    "terrace_val": "30 gostiju"
+  },
+  "featured": {
+    "title": "Preporuke kuhara",
+    "subtitle": "Izabrana jela",
+    "cta": "Preuzmi jelovnik",
+    "items": [
+      {
+        "name": "Salata od hobotnice & dimljena tuna",
+        "desc": "Paški sir preliven maslinovim uljem i medom"
+      },
+      {
+        "name": "Teletina ispod peke",
+        "desc": "Hrskava palenta, ukiseljeni crveni luk, okusi raja"
+      },
+      {
+        "name": "Cheesecake sa dimljenom šljivom",
+        "desc": "Diskretan dim, glazura od višnje, orahova mrvica"
+      }
+    ]
+  },
+  "about": {
+    "meta_title": "O nama | Restoran Rogoznica",
+    "meta_desc": "Priča iza Restorana Rogoznica — tradicionalna dalmatinska kuhinja zasnovana na vatri, sezoni i pravom gostoprimstvu.",
+    "hero_title": "Restoran napravljen oko vatre, sezone i ritma",
+    "hero_sub": "Rogoznica spaja tradiciju i lakši, čišći pristup bez gubitka duše.",
+    "values_title": "Naše vrijednosti",
+    "values_text": "Naše vrijednosti temelje se na jednostavnim, ali čvrstim načelima koja živimo svaki dan. Vjerujemo u lokalno i sezonsko – surađujemo s malim Eko proizvođačima iz okolice Zagreba, ribu nabavljamo svakodnevno, direktno iz Dalmacije, a jelovnik prilagođavamo ritmu prirode i onome što je u tom trenutku najbolje.",
+    "values_text2": "Vodimo se samo idejom kvalitete i zadovoljstva gosta, a kroz promišljenu pripremu i manji jelovnik nastojimo maksimalno iskoristiti svaku namirnicu. Gostoprimstvo kod nas ima svoj standard: opuštena atmosfera ne znači manjak pažnje, već upravo suprotno – svaki detalj ima svoje mjesto.",
+    "values_text3": "Naš tim čine kuhari, konobari i barmeni koji vole dinamiku posla, ali jednako tako znaju kada treba stati, usporiti i gostu posvetiti punu pažnju.",
+    "val1_title": "Lokalno & sezonsko",
+    "val1_text": "Surađujemo s malim Eko proizvođačima, ribu nabavljamo svakodnevno iz Dalmacije.",
+    "val2_title": "Kvaliteta & gost",
+    "val2_text": "Manji jelovnik, maksimalna iskoristivost svake namirnice, zadovoljstvo gosta.",
+    "val3_title": "Pažnja u svakom detalju",
+    "val3_text": "Opuštena atmosfera ne znači manjak pažnje — svaki detalj ima svoje mjesto.",
+    "team_title": "Upoznajte domaćine",
+    "team_text": "Josipa & Vjeko vode kuhinju i salu mirno i precizno. Poznati Chef iznenađenja vodi kuhinju sa fokusom na živu vatru, sezonske namirnice i dalmatinske ukuse u modernom i tradicionalnom stilu.",
+    "cta_reserve": "Rezerviraj stol",
+    "cta_event": "Upit za događaj",
+    "our_story": "Naša priča"
+  },
+  "menu": {
+    "meta_title": "Meni | Restoran Rogoznica",
+    "meta_desc": "Tradicionalna dalmatinska kuhinja, riba na roštilju i sezonski tanjuri.",
+    "title": "Meni",
+    "subtitle": "Tradicionalna dalmatinska kuhinja | Riba na roštilju | Sezonski tanjuri",
+    "allergy": "Alergije? Recite nam — mnoga jela možemo prilagoditi.",
+    "download": "Preuzmi meni (PDF)",
+    "small_plates": "Mala jela",
+    "from_fire": "Sa vatre",
+    "sides": "Prilozi",
+    "desserts": "Deserti & Dodaci",
+    "cocktails": "Kokteli",
+    "wines": "Vina & Rakije i Likeri",
+    "price_placeholder": "— kn",
+    "items": {
+      "small": [
+        { "name": "Pečene paprike", "desc": "Drniški pršut, Paški sir, domaći kruh" },
+        { "name": "Beef tartare", "desc": "Majoneza od dimljene paprike, hrskavi krumpir" },
+        { "name": "Salata rajčica–krastavac", "desc": "Ovčji sir, origano ulje" },
+        { "name": "Bukovače sa roštilja", "desc": "Limun–bijeli luk glazura, začinsko bilje" }
+      ],
+      "fire": [
+        { "name": "Teletina ispod peke", "desc": "Domaći krumpir, zelena salata" },
+        { "name": "Svinjski vrat", "desc": "Paprika relish, hrskavi luk" },
+        { "name": "Janjeće plećka (sporo pečena)", "desc": "Palenta sa origanom, umak od divlje naranče" },
+        { "name": "Riblji ulov dana", "desc": "Blitva / zelje, citrus umak" }
+      ],
+      "sides": [
+        { "name": "Pečeni krumpir", "desc": "Dalmatinski začini" },
+        { "name": "Grilovano sezonsko povrće", "desc": "" },
+        { "name": "Domaći kruh & namazi (daska)", "desc": "" }
+      ],
+      "desserts": [
+        { "name": "Cheesecake sa dimljenom šljivom", "desc": "Orahova mrvica" },
+        { "name": "Topla čokoladna torta", "desc": "Višnja" },
+        { "name": "Crème brûlée vanilija–domaća rakija", "desc": "" }
+      ],
+      "cocktails": [
+        { "name": "Firewall Negroni", "desc": "Gorko, naranača, začin" },
+        { "name": "Zero-Day Spritz", "desc": "Lagano, herbalno, pjenušavo" },
+        { "name": "Dark Mode Espresso", "desc": "Kava, kakao, mekan završetak" }
+      ],
+      "wines": [
+        { "name": "Selekcija hrvatskih vina", "desc": "Bijela / crvena / orange / rosé" },
+        { "name": "Razni likeri i rakije", "desc": "Travarica, dunja, marelica, limun, rogač, kruška" }
+      ]
+    }
+  },
+  "events": {
+    "meta_title": "Događaji | Restoran Rogoznica",
+    "meta_desc": "Od intimnih proslava do potpunog zakupa — prilagođavamo prostor, satnicu i jelovnik.",
+    "title": "Događaji",
+    "subtitle": "Vaša proslava, naš prostor",
+    "intro": "Od intimnih proslava do potpunog zakupa, možemo prilagoditi prostor, satnicu i jelovnik vašem planu.",
+    "cta_inquiry": "Upit za događaj",
+    "cta_reserve": "Rezerviraj stol",
+    "e1_title": "Chef's Table večeri",
+    "e1_desc": "Degustacija od 6 sljedova uz set prilagođenih vrhunskih vina.",
+    "e2_title": "Vjenčanja i prosidbe",
+    "e2_desc": "Minimalan stres, dobra organizacija i prostor koji izgleda odlično na fotografijama.",
+    "e3_title": "Korporativne večere i offsite",
+    "e3_desc": "Privatna soba, opcije za prezentaciju i servis koji drži tempo.",
+    "how_title": "Kako do nas",
+    "how_text": "Preko puta crkve Svetog Ante Padovanskog. Šetnjom uz ulicu Sveti Duh pronaći ćete dragulj ukusa Dalmacije.",
+    "parking": "Parking: ograničen u ulici; parking u blizini",
+    "access": "Pristupačnost: ulaz uz stepenice, direktno sa ulice",
+    "hosts_title": "Upoznajte domaćine",
+    "hosts_text": "Josipa & Vjeko vode kuhinju i salu mirno i precizno. Poznati Chef iznenađenja vodi kuhinju sa fokusom na živu vatru, sezonske namirnice i dalmatinske ukuse u modernom i tradicionalnom stilu.",
+    "our_story": "Naša priča"
+  },
+  "gallery": {
+    "meta_title": "Galerija | Restoran Rogoznica",
+    "meta_desc": "Pogled iznutra — hrana, prostor i događaji Restorana Rogoznica.",
+    "title": "Galerija",
+    "subtitle": "Restoran Rogoznica u trenucima",
+    "tagline": "Hrana. Vatra. Ljudi. Detalji koji ostaju.",
+    "filter_all": "Sve",
+    "filter_food": "Hrana",
+    "filter_wine": "Vina",
+    "filter_interior": "Interijer",
+    "filter_events": "Događaji",
+    "filter_team": "Tim",
+    "cta": "Rezerviraj stol"
+  },
+  "contact": {
+    "meta_title": "Kontakt | Restoran Rogoznica",
+    "meta_desc": "Kontakt informacije, radno vrijeme, rezervacije i upiti za događaje.",
+    "title": "Kontaktirajte nas",
+    "subtitle": "Pitanja, rezervacije ili plan događaja — pišite.",
+    "form_name": "Ime i prezime",
+    "form_email": "Email / Telefon",
+    "form_subject": "Tema",
+    "form_subject_res": "Rezervacija",
+    "form_subject_event": "Događaj",
+    "form_subject_other": "Ostalo",
+    "form_date": "Datum",
+    "form_guests": "Broj osoba",
+    "form_message": "Poruka",
+    "form_send": "Pošalji",
+    "form_event": "Upit za događaj",
+    "map_placeholder": "Embed Google Maps — Zagreb, Sveti duh 38"
+  },
+  "footer": {
+    "tagline": "Isplanirajte posjetu bez napora — ručak, spojevi, rođendani, razne proslave ili korporativni ručak ili večera.",
+    "quick_links": "Brze veze",
+    "follow": "Pratite nas",
+    "legal": "Sva prava pridržana",
+    "privacy": "Privatnost",
+    "terms": "Uvjeti korištenja"
+  }
+}

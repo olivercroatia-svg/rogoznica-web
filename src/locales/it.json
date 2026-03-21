@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "menu": "Menu",
+    "events": "Eventi",
+    "gallery": "Galleria",
+    "contact": "Contatti",
+    "reserve": "Prenota un tavolo"
+  },
+  "hero": {
+    "title": "Benvenuti al Ristorante Rogoznica",
+    "subtitle": "Cucina dalmata moderna con cuore",
+    "desc": "Classici di carne raffinati, pesce fresco e prosciutto e formaggio fatti in casa",
+    "cta_reserve": "Prenota un tavolo",
+    "cta_menu": "Scarica il menu",
+    "tagline": "Cucina aperta. Atmosfera serale nel weekend. Pranzi e cene tranquilli nei giorni feriali."
+  },
+  "why": {
+    "title": "Perché proprio qui",
+    "text": "Nascosto nella via Sveti duh 38 di Zagabria, il Ristorante Rogoznica è stato creato per le persone a cui importano il cibo, l'atmosfera, la compagnia, il profumo del mare e un buon bicchiere di vino. Venite a pranzo o cena e restate per la griglia, il vino e l'atmosfera dalmata."
+  },
+  "info": {
+    "title": "Informazioni rapide",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "location": "Posizione",
+    "hours": "Orari di apertura",
+    "phone_val": "+385 (0)1 000 000",
+    "email_val": "reservations@restoran-rogoznica.hr",
+    "location_val": "Zagabria, Sveti duh 38, Croazia",
+    "hours_val": "Lun–Ven 11:00–23:00 • Sab 12:00–24:00 • Dom 12:00–22:00"
+  },
+  "space": {
+    "title": "Il nostro spazio",
+    "subtitle": "Posti a sedere e zone",
+    "indoor": "Sala principale (interno)",
+    "indoor_val": "30 ospiti",
+    "terrace": "Terrazza",
+    "terrace_val": "30 ospiti"
+  },
+  "featured": {
+    "title": "I consigli dello chef",
+    "subtitle": "Piatti selezionati",
+    "cta": "Scarica il menu",
+    "items": [
+      {
+        "name": "Insalata di polpo & tonno affumicato",
+        "desc": "Formaggio Pag con olio d'oliva e miele"
+      },
+      {
+        "name": "Vitello sotto la peka",
+        "desc": "Polenta croccante, cipolla rossa sottaceto"
+      },
+      {
+        "name": "Cheesecake con prugna affumicata",
+        "desc": "Fumo discreto, glassa di ciliegia, briciole di noce"
+      }
+    ]
+  },
+  "about": {
+    "meta_title": "Chi siamo | Ristorante Rogoznica",
+    "meta_desc": "La storia dietro al Ristorante Rogoznica — cucina dalmata tradizionale basata sul fuoco, la stagione e la vera ospitalità.",
+    "hero_title": "Un ristorante costruito attorno al fuoco, alla stagione e al ritmo",
+    "hero_sub": "Rogoznica unisce tradizione e un approccio più leggero e pulito senza perdere l'anima.",
+    "values_title": "I nostri valori",
+    "values_text": "I nostri valori si basano su principi semplici ma solidi che viviamo ogni giorno. Crediamo nel locale e stagionale — collaboriamo con piccoli produttori eco dalla zona di Zagabria, riforniamo pesce quotidianamente dalla Dalmazia e adattiamo il menu al ritmo della natura.",
+    "values_text2": "Siamo guidati solo dall'idea della qualità e della soddisfazione degli ospiti. Attraverso una preparazione attenta e un menu più piccolo, cerchiamo di sfruttare al massimo ogni ingrediente.",
+    "values_text3": "Il nostro team è composto da cuochi, camerieri e barman che amano le dinamiche del lavoro, ma sanno anche quando rallentare e dedicare piena attenzione agli ospiti.",
+    "val1_title": "Locale & Stagionale",
+    "val1_text": "Collaborazione con piccoli produttori eco, fornitura giornaliera di pesce dalla Dalmazia.",
+    "val2_title": "Qualità & Ospite",
+    "val2_text": "Menu più piccolo, utilizzo massimo di ogni ingrediente, soddisfazione dell'ospite.",
+    "val3_title": "Attenzione ad ogni dettaglio",
+    "val3_text": "Un'atmosfera rilassata non significa mancanza di attenzione — ogni dettaglio ha il suo posto.",
+    "team_title": "Conoscete i vostri ospiti",
+    "team_text": "Josipa & Vjeko gestiscono cucina e sala con calma e precisione. Lo chef sorpresa guida la cucina con focus sul fuoco vivo, ingredienti stagionali e sapori dalmati.",
+    "cta_reserve": "Prenota un tavolo",
+    "cta_event": "Richiesta evento",
+    "our_story": "La nostra storia"
+  },
+  "menu": {
+    "meta_title": "Menu | Ristorante Rogoznica",
+    "meta_desc": "Cucina dalmata tradizionale, pesce alla griglia e piatti stagionali.",
+    "title": "Menu",
+    "subtitle": "Cucina Dalmata Tradizionale | Pesce alla Griglia | Piatti Stagionali",
+    "allergy": "Allergie? Ditecci — molti piatti possono essere adattati.",
+    "download": "Scarica menu (PDF)",
+    "small_plates": "Piccoli piatti",
+    "from_fire": "Dal fuoco",
+    "sides": "Contorni",
+    "desserts": "Dolci & Extra",
+    "cocktails": "Cocktail",
+    "wines": "Vini & Distillati",
+    "price_placeholder": "— kn",
+    "items": {
+      "small": [
+        { "name": "Peperoni arrostiti", "desc": "Prosciutto di Drniš, formaggio Pag, pane fatto in casa" },
+        { "name": "Beef tartare", "desc": "Maionese di peperone affumicato, patate croccanti" },
+        { "name": "Insalata pomodoro–cetriolo", "desc": "Formaggio di pecora, olio all'origano" },
+        { "name": "Funghi ostrica alla griglia", "desc": "Glassa limone–aglio, erbe fresche" }
+      ],
+      "fire": [
+        { "name": "Vitello sotto la peka", "desc": "Patate fatte in casa, insalata verde" },
+        { "name": "Collo di maiale", "desc": "Relish di peperoni, cipolla croccante" },
+        { "name": "Spalla d'agnello (cotta lentamente)", "desc": "Polenta all'origano, salsa di arancia selvatica" },
+        { "name": "Pesce del giorno", "desc": "Bietola / verdure, salsa agli agrumi" }
+      ],
+      "sides": [
+        { "name": "Patate arrosto", "desc": "Spezie dalmate" },
+        { "name": "Verdure stagionali alla griglia", "desc": "" },
+        { "name": "Pane fatto in casa & creme spalmabili (tagliere)", "desc": "" }
+      ],
+      "desserts": [
+        { "name": "Cheesecake con prugna affumicata", "desc": "Briciole di noce" },
+        { "name": "Torta al cioccolato calda", "desc": "Ciliegia" },
+        { "name": "Crème brûlée vaniglia–grappa artigianale", "desc": "" }
+      ],
+      "cocktails": [
+        { "name": "Firewall Negroni", "desc": "Amaro, arancia, spezia" },
+        { "name": "Zero-Day Spritz", "desc": "Leggero, erbaceo, frizzante" },
+        { "name": "Dark Mode Espresso", "desc": "Caffè, cacao, finale morbido" }
+      ],
+      "wines": [
+        { "name": "Selezione di vini croati", "desc": "Bianco / rosso / arancione / rosé" },
+        { "name": "Distillati & liquori", "desc": "Grappa alle erbe, cotogna, albicocca, limone, carruba, pera" }
+      ]
+    }
+  },
+  "events": {
+    "meta_title": "Eventi | Ristorante Rogoznica",
+    "meta_desc": "Da celebrazioni intime al noleggio completo — adattiamo spazio, orario e menu.",
+    "title": "Eventi",
+    "subtitle": "La vostra celebrazione, il nostro spazio",
+    "intro": "Da celebrazioni intime al noleggio completo, possiamo adattare spazio, orario e menu al vostro piano.",
+    "cta_inquiry": "Richiesta evento",
+    "cta_reserve": "Prenota un tavolo",
+    "e1_title": "Serate Chef's Table",
+    "e1_desc": "Un menu degustazione di 6 portate con una selezione di vini premium.",
+    "e2_title": "Matrimoni & Proposte",
+    "e2_desc": "Stress minimo, ottima organizzazione e uno spazio che appare magnificamente nelle foto.",
+    "e3_title": "Cene aziendali & Offsite",
+    "e3_desc": "Sala privata, opzioni di presentazione e servizio al passo coi tempi.",
+    "how_title": "Come trovarci",
+    "how_text": "Di fronte alla Chiesa di Sant'Antonio da Padova. Camminando lungo via Sveti Duh troverete il gioiello dei sapori dalmati.",
+    "parking": "Parcheggio: limitato in strada; parcheggio nelle vicinanze",
+    "access": "Accessibilità: ingresso con gradini, direttamente dalla strada",
+    "hosts_title": "Conoscete i vostri ospiti",
+    "hosts_text": "Josipa & Vjeko gestiscono cucina e sala con calma e precisione. Lo chef sorpresa guida la cucina con focus sul fuoco vivo, ingredienti stagionali e sapori dalmati.",
+    "our_story": "La nostra storia"
+  },
+  "gallery": {
+    "meta_title": "Galleria | Ristorante Rogoznica",
+    "meta_desc": "Uno sguardo all'interno — cibo, spazio ed eventi al Ristorante Rogoznica.",
+    "title": "Galleria",
+    "subtitle": "Ristorante Rogoznica in momenti",
+    "tagline": "Cibo. Fuoco. Persone. Dettagli che rimangono.",
+    "filter_all": "Tutto",
+    "filter_food": "Cibo",
+    "filter_wine": "Vini",
+    "filter_interior": "Interni",
+    "filter_events": "Eventi",
+    "filter_team": "Team",
+    "cta": "Prenota un tavolo"
+  },
+  "contact": {
+    "meta_title": "Contatti | Ristorante Rogoznica",
+    "meta_desc": "Informazioni di contatto, orari, prenotazioni e richieste eventi.",
+    "title": "Contattateci",
+    "subtitle": "Domande, prenotazioni o piani eventi — scriveteci.",
+    "form_name": "Nome e cognome",
+    "form_email": "Email / Telefono",
+    "form_subject": "Oggetto",
+    "form_subject_res": "Prenotazione",
+    "form_subject_event": "Evento",
+    "form_subject_other": "Altro",
+    "form_date": "Data",
+    "form_guests": "Numero di ospiti",
+    "form_message": "Messaggio",
+    "form_send": "Invia",
+    "form_event": "Richiesta evento",
+    "map_placeholder": "Incorpora Google Maps — Zagabria, Sveti duh 38"
+  },
+  "footer": {
+    "tagline": "Pianificate la visita senza sforzo — pranzo, appuntamenti, compleanni o cene aziendali.",
+    "quick_links": "Link rapidi",
+    "follow": "Seguici",
+    "legal": "Tutti i diritti riservati",
+    "privacy": "Privacy",
+    "terms": "Termini d'uso"
+  }
+}

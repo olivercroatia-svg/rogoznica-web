@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Domov",
+    "about": "O nas",
+    "menu": "Jedilnik",
+    "events": "Dogodki",
+    "gallery": "Galerija",
+    "contact": "Kontakt",
+    "reserve": "Rezerviraj mizo"
+  },
+  "hero": {
+    "title": "Dobrodošli v Restavraciji Rogoznica",
+    "subtitle": "Moderna dalmatinska miza s srcem",
+    "desc": "Izpopolnjene mesne klasike, sveža riba in domači pršut ter sir",
+    "cta_reserve": "Rezerviraj mizo",
+    "cta_menu": "Prenesi jedilnik",
+    "tagline": "Odprta kuhinja. Ob vikendih pozna atmosfera. Med tednom mirnejše kosilo in večerja."
+  },
+  "why": {
+    "title": "Zakaj ravno tukaj",
+    "text": "Skrit v zagrebški ulici Sveti duh 38 je bil Restoran Rogoznica ustvarjen za ljudi, ki jim je mar za hrano, atmosfero, družbo, vonj morja in dobro kapljico. Pridite na kosilo ali večerjo in ostanite zaradi žara, vina in dalmatinske atmosfere."
+  },
+  "info": {
+    "title": "Hitre informacije",
+    "phone": "Telefon",
+    "email": "E-pošta",
+    "location": "Lokacija",
+    "hours": "Delovni čas",
+    "phone_val": "+385 (0)1 000 000",
+    "email_val": "reservations@restoran-rogoznica.hr",
+    "location_val": "Zagreb, Sveti duh 38, Hrvaška",
+    "hours_val": "pon–pet 11:00–23:00 • sob 12:00–24:00 • ned 12:00–22:00"
+  },
+  "space": {
+    "title": "Naš prostor",
+    "subtitle": "Sedeži in cone",
+    "indoor": "Glavna jedilnica (znotraj)",
+    "indoor_val": "30 gostov",
+    "terrace": "Terasa",
+    "terrace_val": "30 gostov"
+  },
+  "featured": {
+    "title": "Priporočila kuharja",
+    "subtitle": "Izbrane jedi",
+    "cta": "Prenesi jedilnik",
+    "items": [
+      {
+        "name": "Solata iz hobotnice & dimljena tuna",
+        "desc": "Paški sir, prelijet z oljčnim oljem in medom"
+      },
+      {
+        "name": "Teletina pod peko",
+        "desc": "Hrustljava palenta, naložena rdeča čebula"
+      },
+      {
+        "name": "Cheesecake z dimljeno slivo",
+        "desc": "Diskretni dim, glazura iz češenj, drobtine orehov"
+      }
+    ]
+  },
+  "about": {
+    "meta_title": "O nas | Restavracija Rogoznica",
+    "meta_desc": "Zgodba za Restavracijo Rogoznica — tradicionalna dalmatinska kuhinja, zgrajena na ognju, sezoni in pravem gostoljubju.",
+    "hero_title": "Restavracija, zgrajena okoli ognja, sezone in ritma",
+    "hero_sub": "Rogoznica združuje tradicijo z lažjim, čistejšim pristopom brez izgube duše.",
+    "values_title": "Naše vrednote",
+    "values_text": "Naše vrednote temeljijo na preprostih, a trdnih načelih. Verjamemo v lokalno in sezonsko — sodelujemo z malimi eko-pridelovalci iz okolice Zagreba, dnevno dobavljamo ribe neposredno iz Dalmacije in prilagajamo jedilnik ritmu narave.",
+    "values_text2": "Vodimo se samo z idejo kakovosti in zadovoljstva gostov. S premišljeno pripravo in manjšim jedilnikom si prizadevamo čim bolje izkoristiti vsako sestavino.",
+    "values_text3": "Naša ekipa je sestavljena iz kuharjev, natakarjev in barmanov, ki ljubijo dinamiko dela, a prav tako vedo, kdaj upočasniti in gostom posvetiti polno pozornost.",
+    "val1_title": "Lokalno & sezonsko",
+    "val1_text": "Sodelovanje z malimi eko-pridelovalci, dnevna dostava rib iz Dalmacije.",
+    "val2_title": "Kakovost & gost",
+    "val2_text": "Manjši jedilnik, maksimalna izraba vsake sestavine, zadovoljstvo gostov.",
+    "val3_title": "Pozornost v vsakem detajlu",
+    "val3_text": "Sproščena atmosfera ne pomeni pomanjkanja pozornosti — vsak detajl ima svoje mesto.",
+    "team_title": "Spoznajte gostitelje",
+    "team_text": "Josipa & Vjeko vodita kuhinjo in jedilnico mirno in natančno. Kuhar presenečenj vodi kuhinjo s poudarkom na živem ognju, sezonskih sestavinah in dalmatinskih okusih.",
+    "cta_reserve": "Rezerviraj mizo",
+    "cta_event": "Povpraševanje za dogodek",
+    "our_story": "Naša zgodba"
+  },
+  "menu": {
+    "meta_title": "Jedilnik | Restavracija Rogoznica",
+    "meta_desc": "Tradicionalna dalmatinska kuhinja, riba na žaru in sezonski krožniki.",
+    "title": "Jedilnik",
+    "subtitle": "Tradicionalna dalmatinska kuhinja | Riba na žaru | Sezonski krožniki",
+    "allergy": "Alergije? Povejte nam — mnoge jedi lahko prilagodimo.",
+    "download": "Prenesi jedilnik (PDF)",
+    "small_plates": "Majhne jedi",
+    "from_fire": "Z ognja",
+    "sides": "Priloge",
+    "desserts": "Sladice & Dodatki",
+    "cocktails": "Koktajli",
+    "wines": "Vina & Žgane pijače",
+    "price_placeholder": "— kn",
+    "items": {
+      "small": [
+        { "name": "Pečene paprike", "desc": "Drniški pršut, paški sir, domač kruh" },
+        { "name": "Beef tartare", "desc": "Majoneza iz dimljene paprike, hrustljav krompir" },
+        { "name": "Solata paradižnik–kumarica", "desc": "Ovčji sir, origano olje" },
+        { "name": "Bukovači z žara", "desc": "Glazura limon–česen, sveže zelišče" }
+      ],
+      "fire": [
+        { "name": "Teletina pod peko", "desc": "Domač krompir, zelena solata" },
+        { "name": "Svinjski vrat", "desc": "Paprika relish, hrustljava čebula" },
+        { "name": "Jagnjetina (počasi pečena)", "desc": "Palenta z origanom, omaka divje pomaranče" },
+        { "name": "Dnevni ulov", "desc": "Blitva / zelenjava, citrušna omaka" }
+      ],
+      "sides": [
+        { "name": "Pečen krompir", "desc": "Dalmatinske začimbe" },
+        { "name": "Žarena sezonska zelenjava", "desc": "" },
+        { "name": "Domač kruh & namazi (deska)", "desc": "" }
+      ],
+      "desserts": [
+        { "name": "Cheesecake z dimljeno slivo", "desc": "Drobtine orehov" },
+        { "name": "Topla čokoladna torta", "desc": "Češnja" },
+        { "name": "Crème brûlée vanilija–domača žganja", "desc": "" }
+      ],
+      "cocktails": [
+        { "name": "Firewall Negroni", "desc": "Grenko, pomaranča, začimba" },
+        { "name": "Zero-Day Spritz", "desc": "Lahek, zeliščen, penečo" },
+        { "name": "Dark Mode Espresso", "desc": "Kava, kakav, mehek zaključek" }
+      ],
+      "wines": [
+        { "name": "Izbor hrvaških vin", "desc": "Belo / rdeče / oranžno / rosé" },
+        { "name": "Žgane pijače & likerji", "desc": "Travniška žganja, kutina, marelica, limona, rogač, hruška" }
+      ]
+    }
+  },
+  "events": {
+    "meta_title": "Dogodki | Restavracija Rogoznica",
+    "meta_desc": "Od intimnih proslav do celotnega najema — prilagodimo prostor, urnik in jedilnik.",
+    "title": "Dogodki",
+    "subtitle": "Vaša proslava, naš prostor",
+    "intro": "Od intimnih proslav do celotnega najema lahko prilagodimo prostor, urnik in jedilnik vašemu načrtu.",
+    "cta_inquiry": "Povpraševanje za dogodek",
+    "cta_reserve": "Rezerviraj mizo",
+    "e1_title": "Chef's Table večeri",
+    "e1_desc": "Degustacijski meni s 6 hodi z izborom vrhunskih vin.",
+    "e2_title": "Poroke & zasnubitve",
+    "e2_desc": "Minimalen stres, dobra organizacija in prostor, ki je videti odlično na fotografijah.",
+    "e3_title": "Korporativne večerje & offsiti",
+    "e3_desc": "Zasebna soba, možnosti za predstavitev in storitev, ki drži korak.",
+    "how_title": "Kako do nas",
+    "how_text": "Nasproti Cerkve svetega Antona Padovanskega. Sprehodite se po ulici Sveti Duh in najdete dragulj dalmatinskih okusov.",
+    "parking": "Parkiranje: omejeno na ulici; bližnje parkirišče na voljo",
+    "access": "Dostopnost: vhod po stopnicah, neposredno z ulice",
+    "hosts_title": "Spoznajte gostitelje",
+    "hosts_text": "Josipa & Vjeko vodita kuhinjo in jedilnico mirno in natančno. Kuhar presenečenj vodi kuhinjo s poudarkom na živem ognju, sezonskih sestavinah in dalmatinskih okusih.",
+    "our_story": "Naša zgodba"
+  },
+  "gallery": {
+    "meta_title": "Galerija | Restavracija Rogoznica",
+    "meta_desc": "Pogled v notranjost — hrana, prostor in dogodki v Restavraciji Rogoznica.",
+    "title": "Galerija",
+    "subtitle": "Restavracija Rogoznica v trenutkih",
+    "tagline": "Hrana. Ogenj. Ljudje. Detajli, ki ostanejo.",
+    "filter_all": "Vse",
+    "filter_food": "Hrana",
+    "filter_wine": "Vina",
+    "filter_interior": "Enterijer",
+    "filter_events": "Dogodki",
+    "filter_team": "Ekipa",
+    "cta": "Rezerviraj mizo"
+  },
+  "contact": {
+    "meta_title": "Kontakt | Restavracija Rogoznica",
+    "meta_desc": "Kontaktni podatki, delovni čas, rezervacije in povpraševanja za dogodke.",
+    "title": "Kontaktirajte nas",
+    "subtitle": "Vprašanja, rezervacije ali načrt dogodka — pišite nam.",
+    "form_name": "Ime in priimek",
+    "form_email": "E-pošta / Telefon",
+    "form_subject": "Zadeva",
+    "form_subject_res": "Rezervacija",
+    "form_subject_event": "Dogodek",
+    "form_subject_other": "Ostalo",
+    "form_date": "Datum",
+    "form_guests": "Število gostov",
+    "form_message": "Sporočilo",
+    "form_send": "Pošlji",
+    "form_event": "Povpraševanje za dogodek",
+    "map_placeholder": "Vstavi Google Zemljevide — Zagreb, Sveti duh 38"
+  },
+  "footer": {
+    "tagline": "Načrtujte obisk brez napora — kosilo, zmenki, rojstni dnevi, proslave ali korporativne večerje.",
+    "quick_links": "Hitre povezave",
+    "follow": "Sledite nam",
+    "legal": "Vse pravice pridržane",
+    "privacy": "Zasebnost",
+    "terms": "Pogoji uporabe"
+  }
+}
