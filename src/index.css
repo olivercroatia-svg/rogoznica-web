@@ -2,11 +2,11 @@
 
 @layer base {
   :root {
-    --color-bg: #3f69b8;
-    --color-bg-dark: #2b2260;
+    --color-bg: #21296e;
+    --color-bg-dark: #1c0b7a;
     --color-bg-card: #3d3480;
-    --color-accent: #5881e0;
-    --color-accent-light: #7a9ae8;
+    --color-accent: #5880db;
+    --color-accent-light: #9b9fa8;
     --color-text: #e8ddd4;
     --color-text-muted: #a89880;
     --color-border: rgba(201, 149, 108, 0.3);
