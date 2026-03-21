@@ -40,7 +40,7 @@ function PageLoader() {
           animation: 'shimmer 2s ease-in-out infinite',
         }}
       >
-        rogoznica
+        Rogoznica
       </div>
     </div>
   )

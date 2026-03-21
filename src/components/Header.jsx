@@ -53,11 +53,19 @@ export default function Header({ heroRef }) {
           className="font-['Georgia'] italic text-xl md:text-2xl tracking-wider transition-opacity duration-300"
           style={{ color: 'var(--color-text)', opacity: visible ? 1 : 0, letterSpacing: '0.12em' }}
         >
-          rogoznica
+          Rogoznica
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden md:flex items-center gap-6 lg:gap-8" aria-label="Main navigation">
+        <nav 
+          className="hidden md:flex items-center gap-6 lg:gap-8 px-6 py-2.5 rounded-full" 
+          style={{ 
+            backgroundColor: 'rgba(30, 60, 110, 0.45)', 
+            backdropFilter: 'blur(8px)',
+            border: '1px solid rgba(255,255,255,0.08)'
+          }}
+          aria-label="Main navigation"
+        >
           {navLinks.map(link => (
             <NavLink
               key={link.to}

@@ -27,7 +27,7 @@ export default function Footer() {
           {/* Brand + tagline */}
           <div>
             <Link to="/" className="font-['Georgia'] italic text-2xl tracking-widest block mb-3" style={{ color: 'var(--color-text)', letterSpacing: '0.12em' }}>
-              rogoznica
+              Rogoznica
             </Link>
             <p style={{ color: 'var(--color-text-muted)', fontSize: '0.875rem', lineHeight: '1.7' }}>
               {t('footer.tagline')}
