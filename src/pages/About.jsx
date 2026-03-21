@@ -24,12 +24,11 @@ export default function About() {
         style={{ minHeight: '70vh', background: 'var(--color-bg-dark)' }}
       >
         {/* Background placeholder image */}
-        <div
-          className="absolute inset-0 img-placeholder"
-          aria-label="[ADD ABOUT HERO PHOTO — interior or fire/kitchen]"
-        >
-          <span className="opacity-30">[ADD ABOUT HERO PHOTO]</span>
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1600&q=80"
+          alt="About hero background"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className="absolute inset-0 hero-overlay" />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(46,42,38,0.9) 0%, rgba(46,42,38,0.3) 60%, transparent 100%)' }} />
 
@@ -103,13 +102,12 @@ export default function About() {
       <section className="py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-6 md:px-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <ScrollReveal>
-            <div
-              className="img-placeholder rounded w-full"
+            <img
+              src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=800&q=80"
+              alt="Josipa & Vjeko - Team"
+              className="rounded w-full object-cover"
               style={{ height: '460px' }}
-              aria-label="[ADD TEAM PHOTO — Josipa & Vjeko]"
-            >
-              <span>[ADD TEAM PHOTO]</span>
-            </div>
+            />
           </ScrollReveal>
 
           <ScrollReveal delay={150}>

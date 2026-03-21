@@ -147,13 +147,12 @@ export default function Home() {
               <ScrollReveal key={i} delay={i * 120}>
                 <div className="card group overflow-hidden">
                   {/* Placeholder food image */}
-                  <div
-                    className="img-placeholder w-full mb-4 rounded"
+                  <img
+                    src={`https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80&sig=${i}`}
+                    alt={item.name}
+                    className="w-full mb-4 rounded object-cover"
                     style={{ height: '200px' }}
-                    aria-label={`[ADD PHOTO: ${item.name}]`}
-                  >
-                    <span className="text-center px-4">[ADD PHOTO]</span>
-                  </div>
+                  />
                   <div
                     className="text-xs uppercase tracking-widest mb-2"
                     style={{ color: 'var(--color-accent)' }}
@@ -188,13 +187,12 @@ export default function Home() {
 
           <ScrollReveal>
             {/* Left: placeholder image */}
-            <div
-              className="img-placeholder rounded w-full"
+            <img
+              src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+              alt="Interior"
+              className="rounded w-full object-cover"
               style={{ height: '420px' }}
-              aria-label="[ADD INTERIOR PHOTO]"
-            >
-              <span>[ADD INTERIOR PHOTO]</span>
-            </div>
+            />
           </ScrollReveal>
 
           <ScrollReveal delay={150}>

@@ -65,12 +65,11 @@ export default function Contact() {
         className="relative flex items-end pt-20"
         style={{ minHeight: '45vh', background: 'var(--color-bg-dark)' }}
       >
-        <div
-          className="absolute inset-0 img-placeholder"
-          aria-label="[ADD CONTACT HERO PHOTO]"
-        >
-          <span className="opacity-20">[ADD CONTACT HERO PHOTO]</span>
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1525648199074-cee30ba79a4a?w=1600&q=80"
+          alt="Contact hero background"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(46,42,38,0.95) 0%, rgba(46,42,38,0.5) 60%, transparent 100%)' }} />
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-10 pb-14">
@@ -127,18 +126,12 @@ export default function Contact() {
               </div>
 
               {/* Map placeholder */}
-              <div
-                className="img-placeholder w-full rounded mt-8"
+              <img
+                src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80"
+                alt="Map"
+                className="w-full rounded mt-8 object-cover"
                 style={{ height: '240px' }}
-                aria-label="[ADD GOOGLE MAPS EMBED — Zagreb, Sveti duh 38]"
-              >
-                <div className="text-center p-4">
-                  <div className="text-3xl mb-2">📍</div>
-                  <p style={{ color: 'var(--color-text-muted)', fontSize: '0.85rem' }}>
-                    {t('contact.map_placeholder')}
-                  </p>
-                </div>
-              </div>
+              />
             </ScrollReveal>
           </div>
 

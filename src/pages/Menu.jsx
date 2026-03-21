@@ -72,12 +72,11 @@ export default function Menu() {
         className="relative flex items-end pt-20"
         style={{ minHeight: '55vh', background: 'var(--color-bg-dark)' }}
       >
-        <div
-          className="absolute inset-0 img-placeholder"
-          aria-label="[ADD MENU HERO PHOTO — food/grill]"
-        >
-          <span className="opacity-20">[ADD MENU HERO PHOTO]</span>
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1544025162-d76694265947?w=1600&q=80"
+          alt="Menu hero background"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(46,42,38,0.95) 0%, rgba(46,42,38,0.5) 60%, rgba(46,42,38,0.2) 100%)' }} />
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-10 pb-14">

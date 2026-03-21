@@ -23,12 +23,11 @@ export default function Events() {
         className="relative flex items-end pt-20"
         style={{ minHeight: '65vh', background: 'var(--color-bg-dark)' }}
       >
-        <div
-          className="absolute inset-0 img-placeholder"
-          aria-label="[ADD EVENTS HERO PHOTO — table setting or event]"
-        >
-          <span className="opacity-20">[ADD EVENTS HERO PHOTO]</span>
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=1600&q=80"
+          alt="Events hero background"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(46,42,38,0.95) 0%, rgba(46,42,38,0.4) 70%, transparent 100%)' }} />
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-10 pb-16">
@@ -67,13 +66,12 @@ export default function Events() {
               <ScrollReveal key={i} delay={i * 120}>
                 <div className="card group">
                   {/* Placeholder image */}
-                  <div
-                    className="img-placeholder w-full mb-5 rounded"
+                  <img
+                    src={`https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800&q=80&sig=${i}`}
+                    alt={card.title}
+                    className="w-full mb-5 rounded object-cover"
                     style={{ height: '200px' }}
-                    aria-label={`[ADD EVENT PHOTO: ${card.title}]`}
-                  >
-                    <span className="text-3xl">{card.icon}</span>
-                  </div>
+                  />
                   <h3 className="font-['Georgia'] italic text-xl mb-3" style={{ color: 'var(--color-accent)' }}>
                     {card.title}
                   </h3>
@@ -125,19 +123,12 @@ export default function Events() {
 
           <ScrollReveal delay={150}>
             {/* Map placeholder */}
-            <div
-              className="img-placeholder w-full rounded"
+            <img
+              src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80"
+              alt="Map location"
+              className="w-full rounded object-cover"
               style={{ height: '380px' }}
-              aria-label="[ADD GOOGLE MAPS EMBED]"
-            >
-              <div className="text-center p-6">
-                <div className="text-4xl mb-3">📍</div>
-                <p style={{ color: 'var(--color-text-muted)', fontSize: '0.9rem' }}>
-                  Zagreb, Sveti duh 38<br />
-                  [ADD GOOGLE MAPS EMBED]
-                </p>
-              </div>
-            </div>
+            />
           </ScrollReveal>
         </div>
       </section>
@@ -147,13 +138,12 @@ export default function Events() {
         <div className="max-w-7xl mx-auto px-6 md:px-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
 
           <ScrollReveal>
-            <div
-              className="img-placeholder w-full rounded"
+            <img
+              src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=800&q=80"
+              alt="Hosts"
+              className="w-full rounded object-cover"
               style={{ height: '400px' }}
-              aria-label="[ADD HOSTS PHOTO]"
-            >
-              <span>[ADD HOSTS PHOTO]</span>
-            </div>
+            />
           </ScrollReveal>
 
           <ScrollReveal delay={150}>

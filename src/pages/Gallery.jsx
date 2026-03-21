@@ -52,12 +52,11 @@ export default function Gallery() {
         className="relative flex items-end pt-20"
         style={{ minHeight: '50vh', background: 'var(--color-bg-dark)' }}
       >
-        <div
-          className="absolute inset-0 img-placeholder"
-          aria-label="[ADD GALLERY HERO PHOTO]"
-        >
-          <span className="opacity-20">[ADD GALLERY HERO PHOTO]</span>
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=80"
+          alt="Gallery background"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(46,42,38,0.95) 0%, rgba(46,42,38,0.5) 60%, transparent 100%)' }} />
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-10 pb-14">
