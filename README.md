@@ -1,2 +1,2 @@
 # rogoznica-web
-REstoran Rogoznica
+Restoran Rogoznica
