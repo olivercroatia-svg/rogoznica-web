@@ -6,7 +6,8 @@
     "events": "Dogodki",
     "gallery": "Galerija",
     "contact": "Kontakt",
-    "reserve": "Rezerviraj mizo"
+    "reserve": "Rezerviraj mizo",
+    "change_language": "Spremeni jezik"
   },
   "hero": {
     "title": "Dobrodošli v Restavraciji Rogoznica",
@@ -18,7 +19,7 @@
   },
   "why": {
     "title": "Zakaj ravno tukaj",
-    "text": "Skrit v zagrebški ulici Sveti duh 38 je bil Restoran Rogoznica ustvarjen za ljudi, ki jim je mar za hrano, atmosfero, družbo, vonj morja in dobro kapljico. Pridite na kosilo ali večerjo in ostanite zaradi žara, vina in dalmatinske atmosfere."
+    "text": "Skrit v zagrebški ulici Sveti duh 38 je bil Restoran Rogoznica ustvarjen za ljeudi, ki jim je mar za hrano, atmosfero, družbo, vonj morja in dobro kapljico. Pridite na kosilo ali večerjo in ostanite zaradi žara, vina in dalmatinske atmosfere."
   },
   "info": {
     "title": "Hitre informacije",
@@ -61,11 +62,11 @@
   "about": {
     "meta_title": "O nas | Restavracija Rogoznica",
     "meta_desc": "Zgodba za Restavracijo Rogoznica — tradicionalna dalmatinska kuhinja, zgrajena na ognju, sezoni in pravem gostoljubju.",
-    "hero_title": "Restavracija, zgrajena okoli ognja, sezone in ritma",
+    "hero_title": "Restavracija, zgrajena okoli ognja, sezone i ritma",
     "hero_sub": "Rogoznica združuje tradicijo z lažjim, čistejšim pristopom brez izgube duše.",
     "values_title": "Naše vrednote",
     "values_text": "Naše vrednote temeljijo na preprostih, a trdnih načelih. Verjamemo v lokalno in sezonsko — sodelujemo z malimi eko-pridelovalci iz okolice Zagreba, dnevno dobavljamo ribe neposredno iz Dalmacije in prilagajamo jedilnik ritmu narave.",
-    "values_text2": "Vodimo se samo z idejo kakovosti in zadovoljstva gostov. S premišljeno pripravo in manjšim jedilnikom si prizadevamo čim bolje izkoristiti vsako sestavino.",
+    "values_text2": "Vodimo se samo z idejo kakovosti i zadovoljstva gostov. S premišljeno pripravo i manjšim jedilnikom si prizadevamo čim bolje izkoristiti vsako sestavino.",
     "values_text3": "Naša ekipa je sestavljena iz kuharjev, natakarjev in barmanov, ki ljubijo dinamiko dela, a prav tako vedo, kdaj upočasniti in gostom posvetiti polno pozornost.",
     "val1_title": "Lokalno & sezonsko",
     "val1_text": "Sodelovanje z malimi eko-pridelovalci, dnevna dostava rib iz Dalmacije.",
@@ -138,15 +139,15 @@
     "e1_title": "Chef's Table večeri",
     "e1_desc": "Degustacijski meni s 6 hodi z izborom vrhunskih vin.",
     "e2_title": "Poroke & zasnubitve",
-    "e2_desc": "Minimalen stres, dobra organizacija in prostor, ki je videti odlično na fotografijah.",
+    "e2_desc": "Minimalen stres, dobra organizacija i prostor, ki je videti odlično na fotografijah.",
     "e3_title": "Korporativne večerje & offsiti",
-    "e3_desc": "Zasebna soba, možnosti za predstavitev in storitev, ki drži korak.",
+    "e3_desc": "Zasebna soba, možnosti za predstavitev i storitev, ki drži korak.",
     "how_title": "Kako do nas",
-    "how_text": "Nasproti Cerkve svetega Antona Padovanskega. Sprehodite se po ulici Sveti Duh in najdete dragulj dalmatinskih okusov.",
+    "how_text": "Nasproti Cerkve svetega Antona Padovanskega. Sprehodite se po ulici Sveti Duh i najdete dragulj dalmatinskih okusov.",
     "parking": "Parkiranje: omejeno na ulici; bližnje parkirišče na voljo",
     "access": "Dostopnost: vhod po stopnicah, neposredno z ulice",
     "hosts_title": "Spoznajte gostitelje",
-    "hosts_text": "Josipa & Vjeko vodita kuhinjo in jedilnico mirno in natančno. Kuhar presenečenj vodi kuhinjo s poudarkom na živem ognju, sezonskih sestavinah in dalmatinskih okusih.",
+    "hosts_text": "Josipa & Vjeko vodita kuhinjo i jedilnico mirno i natančno. Kuhar presenečenj vodi kuhinjo s poudarkom na živem ognju, sezonskih sestavinah in dalmatinskih okusih.",
     "our_story": "Naša zgodba"
   },
   "gallery": {

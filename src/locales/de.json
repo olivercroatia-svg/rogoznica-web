@@ -6,7 +6,8 @@
     "events": "Veranstaltungen",
     "gallery": "Galerie",
     "contact": "Kontakt",
-    "reserve": "Tisch reservieren"
+    "reserve": "Tisch reservieren",
+    "change_language": "Sprache ändern"
   },
   "hero": {
     "title": "Willkommen im Restaurant Rogoznica",
@@ -45,7 +46,7 @@
     "cta": "Speisekarte herunterladen",
     "items": [
       {
-        "name": "Oktopussalat & Räucherthunfisch",
+        "name": "Oktopussalat & Räuckerthunfisch",
         "desc": "Pag-Käse mit Olivenöl und Honig überträufelt"
       },
       {
@@ -69,7 +70,7 @@
     "values_text3": "Unser Team besteht aus Köchen, Kellnern und Barkeepern, die die Dynamik des Jobs lieben, aber auch wissen, wann man innehalten und den Gästen volle Aufmerksamkeit schenken sollte.",
     "val1_title": "Lokal & Saisonal",
     "val1_text": "Zusammenarbeit mit kleinen Öko-Erzeugern, tägliche Fischlieferung aus Dalmatien.",
-    "val2_title": "Qualität & Gast",
+    "val2_title": "Qualità & Gast",
     "val2_text": "Kleinere Speisekarte, maximale Nutzung jeder Zutat, Gästezufriedenheit.",
     "val3_title": "Aufmerksamkeit im Detail",
     "val3_text": "Eine entspannte Atmosphäre bedeutet keine mangelnde Aufmerksamkeit — jedes Detail hat seinen Platz.",
@@ -138,7 +139,7 @@
     "e1_title": "Chef's Table Abende",
     "e1_desc": "Ein 6-Gänge-Degustationsmenü mit einer kuratierten Auswahl an Premium-Weinen.",
     "e2_title": "Hochzeiten & Heiratsanträge",
-    "e2_desc": "Minimaler Stress, gute Organisation und ein Raum, der auf Fotos wunderschön aussieht.",
+    "e2_desc": "Minimaler Stress, gute Organisation und un Raum, der auf Fotos wunderschön aussieht.",
     "e3_title": "Firmendinners & Offsites",
     "e3_desc": "Privater Raum, Präsentationsmöglichkeiten und Service, der mithalten kann.",
     "how_title": "So finden Sie uns",
@@ -146,7 +147,7 @@
     "parking": "Parken: begrenzt auf der Straße; Parkplätze in der Nähe vorhanden",
     "access": "Barrierefreiheit: Eingang mit Stufen, direkt von der Straße",
     "hosts_title": "Lernen Sie Ihre Gastgeber kennen",
-    "hosts_text": "Josipa & Vjeko leiten Küche und Speisesaal ruhig und präzise. Der Überraschungskoch führt die Küche mit Fokus auf offenes Feuer, saisonale Zutaten und dalmatinische Aromen.",
+    "hosts_text": "Josipa & Vjeko leiten Küche und Speisesaal ruhig und präzise. Der Überraschungskoch führt die Küche con Fokus auf offenes Feuer, saisonale Zutaten und dalmatinische Aromen.",
     "our_story": "Unsere Geschichte"
   },
   "gallery": {
