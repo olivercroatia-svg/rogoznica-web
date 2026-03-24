@@ -6,7 +6,8 @@
     "events": "Događaji",
     "gallery": "Galerija",
     "contact": "Kontakt",
-    "reserve": "Rezerviraj stol"
+    "reserve": "Rezerviraj stol",
+    "change_language": "Promijeni jezik"
   },
   "hero": {
     "title": "Dobrodošli u Restoran Rогoznica",
@@ -18,7 +19,7 @@
   },
   "why": {
     "title": "Zašto baš ovdje",
-    "text": "Skriven u Zagrebačkoj ulici Sveti duh 38, Restoran Rogoznica je stvorena za ljude kojima su bitni hrana, atmosfera, društvo, mirisi mora i dobra kapljica. Dođite na ručak ili večeru i ostanite zbog roštilja, vina i dalmatinske atmosfere."
+    "text": "Skriven u Zagrebačkoj ulici Sveti duh 38, Restoran Rogoznica je stvorena za ljeude kojima su bitni hrana, atmosfera, društvo, mirisi mora i dobra kapljica. Dođite na ručak ili večeru i ostanite zbog roštilja, vina i dalmatinske atmosfere."
   },
   "info": {
     "title": "Brze informacije",
@@ -101,7 +102,7 @@
         { "name": "Bukovače sa roštilja", "desc": "Limun–bijeli luk glazura, začinsko bilje" }
       ],
       "fire": [
-        { "name": "Teletina ispod peke", "desc": "Domaći krumpir, zelena salata" },
+        { "name": "Teletina ispod peke", "desc": "Domaći krumpir, zelena solata" },
         { "name": "Svinjski vrat", "desc": "Paprika relish, hrskavi luk" },
         { "name": "Janjeće plećka (sporo pečena)", "desc": "Palenta sa origanom, umak od divlje naranče" },
         { "name": "Riblji ulov dana", "desc": "Blitva / zelje, citrus umak" }

@@ -6,7 +6,8 @@
     "events": "Events",
     "gallery": "Gallery",
     "contact": "Contact",
-    "reserve": "Reserve a Table"
+    "reserve": "Reserve a Table",
+    "change_language": "Change language"
   },
   "hero": {
     "title": "Welcome to Restaurant Rogoznica",
