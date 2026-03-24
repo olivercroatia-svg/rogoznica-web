@@ -78,71 +78,94 @@ export default function Header({ heroRef }) {
           ))}
         </nav>
 
-        {/* Right side */}
-        <div className="hidden md:flex items-center gap-4">
-          <LanguageSwitcher />
-          <Link to="/contact#reserve" className="btn-outline text-sm">
+        {/* Right side - modified to move languages to hamburger */}
+        <div className="flex items-center gap-4">
+          <Link to="/contact#reserve" className="btn-outline text-sm hidden sm:inline-flex">
             {t('nav.reserve')}
           </Link>
-        </div>
 
-        {/* Mobile hamburger */}
-        <button
-          className="md:hidden flex flex-col justify-center gap-1.5 p-2"
-          onClick={() => setMenuOpen(!menuOpen)}
-          aria-label="Toggle menu"
-          aria-expanded={menuOpen}
-        >
-          <span
-            className="block w-6 h-px transition-all duration-300"
-            style={{
-              background: 'var(--color-accent)',
-              transform: menuOpen ? 'translateY(5px) rotate(45deg)' : 'none',
-            }}
-          />
-          <span
-            className="block w-6 h-px transition-all duration-300"
-            style={{
-              background: 'var(--color-accent)',
-              opacity: menuOpen ? 0 : 1,
-            }}
-          />
-          <span
-            className="block w-6 h-px transition-all duration-300"
-            style={{
-              background: 'var(--color-accent)',
-              transform: menuOpen ? 'translateY(-5px) rotate(-45deg)' : 'none',
-            }}
-          />
-        </button>
+          {/* Hamburger (always visible for languages) */}
+          <button
+            className="flex flex-col justify-center gap-1.5 p-2 ml-2"
+            onClick={() => setMenuOpen(!menuOpen)}
+            aria-label="Toggle menu"
+            aria-expanded={menuOpen}
+          >
+            <span
+              className="block w-6 h-px transition-all duration-300"
+              style={{
+                background: 'var(--color-accent)',
+                transform: menuOpen ? 'translateY(5px) rotate(45deg)' : 'none',
+              }}
+            />
+            <span
+              className="block w-6 h-px transition-all duration-300"
+              style={{
+                background: 'var(--color-accent)',
+                opacity: menuOpen ? 0 : 1,
+              }}
+            />
+            <span
+              className="block w-6 h-px transition-all duration-300"
+              style={{
+                background: 'var(--color-accent)',
+                transform: menuOpen ? 'translateY(-5px) rotate(-45deg)' : 'none',
+              }}
+            />
+          </button>
+        </div>
       </div>
 
-      {/* Mobile menu */}
+      {/* Mobile/Hamburger menu overlay */}
       {menuOpen && (
         <div
-          className="md:hidden fixed inset-0 top-16 z-40 flex flex-col items-center justify-center gap-6 anim-fade-in"
-          style={{ background: 'var(--color-bg-dark)' }}
+          className="fixed inset-0 top-16 md:top-20 z-40 flex flex-col items-center justify-center anim-fade-in"
+          style={{ 
+            backgroundColor: 'rgba(28, 11, 122, 0.95)', 
+            backdropFilter: 'blur(15px)',
+            transition: 'all 0.3s ease'
+          }}
           onClick={() => setMenuOpen(false)}
         >
-          {navLinks.map(link => (
-            <NavLink
-              key={link.to}
-              to={link.to}
-              end={link.to === '/'}
-              className={({ isActive }) => `nav-link text-xl ${isActive ? 'active' : ''}`}
+          <div className="flex flex-col items-center gap-10 p-10">
+            {/* Only show nav links in hamburger if they are hidden in desktop or on mobile */}
+            <nav className="flex flex-col items-center gap-6 md:hidden">
+              {navLinks.map(link => (
+                <NavLink
+                  key={link.to}
+                  to={link.to}
+                  end={link.to === '/'}
+                  className={({ isActive }) => `nav-link text-2xl ${isActive ? 'active' : ''}`}
+                  onClick={() => setMenuOpen(false)}
+                >
+                  {link.label}
+                </NavLink>
+              ))}
+            </nav>
+
+            <div 
+              className="flex flex-col items-center gap-6 p-10 rounded-3xl"
+              style={{ 
+                backgroundColor: 'rgba(255,255,255,0.05)', 
+                border: '1px solid rgba(255,255,255,0.1)',
+                boxShadow: '0 20px 50px rgba(0,0,0,0.3)'
+              }}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <span className="text-xs uppercase tracking-[0.2em] text-[#a89880] font-bold opacity-80">
+                {t('nav.change_language') || 'CHOOSE LANGUAGE'}
+              </span>
+              <LanguageSwitcher className="scale-125" />
+            </div>
+
+            <Link
+              to="/contact#reserve"
+              className="btn-solid mt-4 sm:hidden"
               onClick={() => setMenuOpen(false)}
             >
-              {link.label}
-            </NavLink>
-          ))}
-          <LanguageSwitcher className="mt-4" />
-          <Link
-            to="/contact#reserve"
-            className="btn-outline mt-2"
-            onClick={() => setMenuOpen(false)}
-          >
-            {t('nav.reserve')}
-          </Link>
+              {t('nav.reserve')}
+            </Link>
+          </div>
         </div>
       )}
     </header>
